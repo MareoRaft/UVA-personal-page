@@ -1,0 +1,53 @@
+Things my UVA site should have
+=================================
+
+I am Matthew Lancellotti, a first-year Ph.D. student in the Mathematics Department at the University of Virginia.
+
+
+
+COURSES timeline
+----------------------
+
+1. Timeline of courses I'm TAing.  With newest stuff first.  Each course maybe has a link to a course page.  The course page will have all the helpful links to things the students might need:
+  * collab
+  * web assign?
+  * professors page?
+  * syllabus
+  * contact info of me and professor
+  * office hours
+
+2. Contact info
+-----------------------
+
+ml9nn@virginia.edu
+
+Matthew Lancellotti
+P.O. Box 400137
+Dept. of Mathematics
+110 Kerchoff Hall
+
+where to find my mailbox
+
+4. Office Hours
+-----------------------
+you know
+
+
+3. Extra help:
+What can you do...and in what order...
+  1. figure it out yourself!  You should probably struggle with a topic for at least 45 minutes before deciding that you need help.  Learning is a struggle.
+  2. office hrs.  go to instructor or TA office hours.  It is always good to write down the questions / topics you need help with ahead with, so you know what to ask.
+  3. by appointment - ppl will do office hrs by appointment if reg. hours conflic w/ ur schedule.
+  3. go to the learning cente
+  4. get a tutor in math dept - This may cost money.
+
+
+
+ABOUT me
+-------------
+A PICTURE of me!
+just says hello and also links my other projects, etc., resume, curriculum vitae (CV) <-- for these, it would be nice to link to a file in dropbox, that way it's easier to update.  also, make it a pop-out link.
+link back to math dept
+link to main UVA page
+my math interests.
+

@@ -1,0 +1,8 @@
+How to connect to UVA Server in order to update your personal webpage!
+=======================================================================
+
+0. Order matters!  1 must be finished before doing anything else.  If you forget 1, you should start over from scratch.
+1. If off campus, login to UVA LAN by launching /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app and clicking "Accept" to connect.
+2. Go to Finder
+3. command-K (Go > Connect to Server)
+4. smb://home1.storage.virginia.edu/ml9nn

@@ -1,0 +1,4 @@
+scroll smoothly to section:
+https://codyhouse.co/demo/page-scroll-effects/scaledown.html
+http://stackoverflow.com/questions/16349490/html-css-buttons-that-scroll-down-to-different-div-sections-on-a-webpage#16349532
+

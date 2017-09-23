@@ -1,0 +1,9 @@
+I want something that could have a nice "timeline"
+
+1. axiom - nice simple layout. - 7
+2. catalyst - nice header bar, very clean
+3. directive - has a timeline feel
+4. fractal - 2nd pane could work as timeline.
+5. construct - great font sizing for a timeline - 9
+construct wins!
+

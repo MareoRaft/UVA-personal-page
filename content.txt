@@ -1,0 +1,102 @@
+I am Matthew Lancellotti, a first-year Ph.D. student in the Mathematics Department at the University of Virginia.
+
+
+Contents
+------------
+1. Contact Info
+2. Office Hours
+3. Course Info
+4. Extra Help
+5. About me
+
+
+
+
+
+
+Contact info
+-----------------------
+name
+Matthew Lancellotti
+
+email
+ml9nn@virginia.edu
+
+office
+Kerchoff Hall, room 110
+
+mailbox
+When you first enter Kerchoff Hall, there is a mailroom located immediately to the left.  My mailbox is labelled "Lancellotti".
+
+mailing address
+Matthew Lancellotti
+P.O. Box 400137
+Dept. of Mathematics
+110 Kerchoff Hall
+
+
+
+
+Office Hours
+-----------------------
+Mondays 9:45am - 10:45am
+Wednesday 3:45pm - 4:45pm
+and by appointment
+
+
+
+
+
+Course info
+----------------------
+2016, Fall
+
+MATH 1320 - Calculus II - Section 100
+Instructor - Bradley Weaver (http://math.virginia.edu/people/brw4sz)
+Course page - on Collab (https://collab.itc.virginia.edu/portal/site/c326f347-8ba1-4d58-9594-13745e74685d)
+Web Assign (https://www.webassign.net)
+Textbook: Single Variable Calculus: Early Transcendentals, 7th edition, by James Stewart
+
+MATH 1320 - Calculus II - Section 200
+Instructor - Franceso Di Plinio (http://math.virginia.edu/people/fd4v)
+Course page - on Collab (https://collab.itc.virginia.edu/portal/site/d4871659-a273-46ac-adfa-2a115e360949)
+Web Assign (https://www.webassign.net)
+Textbook: Single Variable Calculus: Early Transcendentals, 7th edition, by James Stewart
+
+
+
+
+
+Extra help
+-------------------
+If you need help in your math class, here are suggestions for what you might do, and in what order.
+  1. Attempt the problem yourself.  You should probably struggle with a topic for at least 45 minutes before deciding that you need help.  Learning is a struggle, embrace it!
+  2. Office hrs.  Go to your instructor or TA during office hours.  It is always good to write down the questions / topics you need help with ahead of time, so you know what to ask.  Also, one should not think of office hours as "remedial".  It is often the case that strong students attend office hours.
+  3. Ask a friend.  It can be helpful to study with a friend from class.  Most instructors allow students to work out homework problems together, as long as they write up solutions individually.
+  4. Meet by appointment.  Instructors and TA's will do office hrs by appointment if the regular hours conflict with your schedule.  Email your instructor or TA to set up a time.
+  5. Go to the Math Tutoring Center (http://people.virginia.edu/~psb7p/MTCsch.html).
+  6. Get a tutor from the math department.  This may cost money.  Email Allison Boese or an Administrative staff member for more information (http://math.virginia.edu/staff).
+
+
+
+About me
+-------------
+A PICTURE of me!
+
+Hello!
+
+I am Matthew Lancellotti, a first-year Ph.D. student in the Mathematics Department at the University of Virginia.  I am probably interested in combinatorics.
+
+Here is a laundry list of my interests and projects, not necessarily related to math.  If you would like to contribute to any project or just talk about something, feel free to email me.
+
+  * provemath.org
+  * screen
+  * chessmojo
+  * cloud computing
+  * lattice
+  * My resume
+  * my curriculum vitae
+  * tennis
+  * violin
+
+<-- for these, it would be nice to link to a file in dropbox, that way it's easier to update.  also, make it a pop-out link.
